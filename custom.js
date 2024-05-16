@@ -1,3 +1,3 @@
 <script>
-let test = "test";
+let test = "test checking cdn";
 </script>
